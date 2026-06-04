@@ -22,7 +22,7 @@ Dưới đây là danh sách các bài Lab đã hoàn thành:
 ## 🛠️ Công cụ sử dụng
 * **Phần cứng:** Kit phát triển FPGA (Zynq-7000 SoC,...)
 * **Phần mềm:** AMD Xilinx Vivado, Vitis IDE, Vivado HLS (Phiên bản 202x)
-* **Ngôn ngữ:** Verilog HDL / VHDL, C/C++
+* **Ngôn ngữ:** Verilog
 
 ---
 
