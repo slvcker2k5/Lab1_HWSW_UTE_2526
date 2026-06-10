@@ -14,7 +14,7 @@ Dưới đây là danh sách các bài Lab đã hoàn thành:
 | **Lab 2** | `zynq_interrupts.zip` | Cấu hình và xử lý Ngắt (Interrupts) trên Zynq |
 | **Lab 3** | `Lab_3_HLS.zip` | Tổng hợp cấp cao với Vivado HLS |
 | **Lab 4A** | `led_controller.zip` | Thiết kế IP điều khiển LED (LED Controller) |
-| **Lab 4B** | `Tutorial4B.rar` | Hướng dẫn và thực hành bài Lab 4B |
+| **Lab 4B** | `Tutorial4B.rar` | Hướng dẫn tạo và đóng gói IP bằng MATLAB |
 | **Lab 4C** | `hls_nco.zip` | Thiết kế bộ dao động số điều khiển bằng xung (NCO) |
 
 ---
